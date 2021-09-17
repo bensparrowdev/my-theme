@@ -1,1 +1,1 @@
-# WordPress Theme - my-theme
+# WordPress Theme: my-theme

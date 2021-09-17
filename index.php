@@ -2,20 +2,15 @@
 /**
  * Main template file.
  * 
- * @package myTheme
+ * @package my-theme
  */
-
-
+get_header();
  ?>
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Wordpress theme</title>
-</head>
-<body>
- Hello WordPress
-</body>
-</html>
+<div class="content">
+  Content
+</div>
+
+<?php 
+
+get_footer();
